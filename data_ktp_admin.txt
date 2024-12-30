@@ -1,0 +1,16 @@
+===== Data KTP Admin =====
+NIK              : 1606075604040009
+Nama             : Chyntya Putri Maharani
+Tempat/Tgl Lahir : musi banyuasin, 16 april 2004
+Jenis Kelamin    : Perempuan
+Alamat           : bantul
+RT/RW            : 01
+Kel/Desa         : sungai lilin jaya
+Kecamatan        : musi banyuasin
+Agama            : islam
+Status Perkawinan: belum kawin
+Pekerjaan        : mahasiswa
+Kewarganegaraan  : indonesia
+Berlaku Hingga   : seumur hidup
+===========================
+
